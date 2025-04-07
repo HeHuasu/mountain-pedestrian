@@ -1,0 +1,4 @@
+nc: 2
+train: /home/sys422/data/OSP/train
+val: /home/sys422/data/OSP/val
+names: ['hidden person', "people"]

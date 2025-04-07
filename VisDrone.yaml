@@ -1,0 +1,5 @@
+nc: 10
+train: /home/sys422/data/VisDrone/train
+val: /home/sys422/data/VisDrone/val
+test: /home/sys422/qfy/data/VisDrone/test
+names: ["pedestrian","people","bicycle", "car", "van","truck","tricycle","awning-tricycle","bus”","motor"]
